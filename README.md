@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/VINITA2027/leetcode-daily/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/VINITA2027/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VINITA2027/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/VINITA2027/leetcode-daily/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
