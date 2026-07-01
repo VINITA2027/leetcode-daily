@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/VINITA2027/leetcode-daily/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/VINITA2027/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
+| [0724-find-pivot-index](https://github.com/VINITA2027/leetcode-daily/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/VINITA2027/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -42,5 +43,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/VINITA2027/leetcode-daily/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/VINITA2027/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
