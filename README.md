@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/VINITA2027/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/VINITA2027/leetcode-daily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VINITA2027/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/VINITA2027/leetcode-daily/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VINITA2027/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/VINITA2027/leetcode-daily/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
@@ -74,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/VINITA2027/leetcode-daily/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/VINITA2027/leetcode-daily/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
