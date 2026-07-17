@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/VINITA2027/leetcode-daily/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/VINITA2027/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VINITA2027/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/VINITA2027/leetcode-daily/tree/master/0242-valid-anagram) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/VINITA2027/leetcode-daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VINITA2027/leetcode-daily/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/VINITA2027/leetcode-daily/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
