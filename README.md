@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/VINITA2027/leetcode-daily/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VINITA2027/leetcode-daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/VINITA2027/leetcode-daily/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/VINITA2027/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/VINITA2027/leetcode-daily/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/VINITA2027/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/VINITA2027/leetcode-daily/tree/master/0704-binary-search) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/VINITA2027/leetcode-daily/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/VINITA2027/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VINITA2027/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VINITA2027/leetcode-daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/VINITA2027/leetcode-daily/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/VINITA2027/leetcode-daily/tree/master/0875-koko-eating-bananas) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/VINITA2027/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
