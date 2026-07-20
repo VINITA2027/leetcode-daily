@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/VINITA2027/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/VINITA2027/leetcode-daily/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/VINITA2027/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/VINITA2027/leetcode-daily/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VINITA2027/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/VINITA2027/leetcode-daily/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/VINITA2027/leetcode-daily/tree/master/0724-find-pivot-index) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VINITA2027/leetcode-daily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VINITA2027/leetcode-daily/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/VINITA2027/leetcode-daily/tree/master/0383-ransom-note) |
+| [0525-contiguous-array](https://github.com/VINITA2027/leetcode-daily/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VINITA2027/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/VINITA2027/leetcode-daily/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VINITA2027/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/VINITA2027/leetcode-daily/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/VINITA2027/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
